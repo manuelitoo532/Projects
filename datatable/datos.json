@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Carlos",
+        "LastName": "Ortez",
+        "City": "San Francisco",
+        "Gender": "Male"
+    },
+    {
+        "Name": "Manuel",
+        "LastName": "Ortez",
+        "City": "San Francisco2",
+        "Gender": "Male"
+    },
+    {
+        "Name": "Luis",
+        "LastName": "Ortez",
+        "City": "San Francisco3",
+        "Gender": "Male"
+    },
+    {
+        "Name": "Maria",
+        "LastName": "Ortez",
+        "City": "San Francisco4",
+        "Gender": "Male"
+    }
+]
